@@ -1,0 +1,44 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2021-03-25T00:55:00.667598+00:00",
+  "repo": "t2trg/sbootstrapping",
+  "labels": [
+    {
+      "name": "bug",
+      "description": null,
+      "color": "fc2929"
+    },
+    {
+      "name": "duplicate",
+      "description": null,
+      "color": "cccccc"
+    },
+    {
+      "name": "enhancement",
+      "description": null,
+      "color": "84b6eb"
+    },
+    {
+      "name": "help wanted",
+      "description": null,
+      "color": "159818"
+    },
+    {
+      "name": "invalid",
+      "description": null,
+      "color": "e6e6e6"
+    },
+    {
+      "name": "question",
+      "description": null,
+      "color": "cc317c"
+    },
+    {
+      "name": "wontfix",
+      "description": null,
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": []
+}
