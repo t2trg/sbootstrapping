@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-03-30T00:40:41.278175+00:00",
+  "timestamp": "2021-04-01T00:42:35.258211+00:00",
   "repo": "t2trg/sbootstrapping",
   "labels": [
     {
@@ -39,6 +39,39 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "MDU6SXNzdWU4NDUxNDg5MTc=",
+      "title": "OCF text and reference",
+      "url": "https://github.com/t2trg/sbootstrapping/issues/1",
+      "state": "OPEN",
+      "author": "ms-s",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "From Wouter (https://mailarchive.ietf.org/arch/msg/t2trg/F2m4wb7ZJzB5prAQN4C50Ahz6Ic/): \r\nfor starters current version of specs of OCF is v2.2.2 version 1.0 is a long long time ago.\r\n\r\none can also reference the ISO/IEC version (https://www.iso.org/standard/74239.html ) that is also way better than the v1.0.0 version referenced.\r\n\r\n\r\n",
+      "createdAt": "2021-03-30T19:48:30Z",
+      "updatedAt": "2021-03-30T19:48:30Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 2,
+      "id": "MDU6SXNzdWU4NDUxNDk4MTM=",
+      "title": "add info on fairhair",
+      "url": "https://github.com/t2trg/sbootstrapping/issues/2",
+      "state": "OPEN",
+      "author": "ms-s",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "From Wouter (https://mailarchive.ietf.org/arch/msg/t2trg/F2m4wb7ZJzB5prAQN4C50Ahz6Ic/):\r\nAlso the Fairhair spec is not listed in this draft RFC. This document is regarded in the building industry as a guiding document.\r\n\r\nhttps://openconnectivity.org/wp-content/uploads/2019/11/fairhair-specification-version-10_approved_april-2019.pdf",
+      "createdAt": "2021-03-30T19:49:07Z",
+      "updatedAt": "2021-03-30T19:49:07Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": []
 }
