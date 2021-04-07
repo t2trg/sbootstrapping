@@ -5,14 +5,14 @@
 Network Working Group                                         M.S. Sethi
 Internet-Draft                                                  Ericsson
 Intended status: Informational                             B.S. Sarikaya
-Expires: 24 September 2021                           Denpel Informatique
+Expires: 9 October 2021                              Denpel Informatique
                                                     D.G. Garcia-Carrillo
                                                     University of Oviedo
-                                                           23 March 2021
+                                                            7 April 2021
 
 
                    Secure IoT Bootstrapping: A Survey
-               draft-sarikaya-t2trg-sbootstrapping-latest
+              draft-irtf-t2trg-secure-bootstrapping-latest
 
 Abstract
 
@@ -55,7 +55,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 24 September 2021.
+   This Internet-Draft will expire on 9 October 2021.
 
 Copyright Notice
 
